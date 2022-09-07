@@ -1,0 +1,36 @@
+D:\UniversidadCaldas\2022\Ciclo_III\Semana_II\Proyectos\Hotel75\Hotel.App\Hotel.App.Dominio\bin\Debug\net6.0\Hotel.App.Dominio.deps.json
+D:\UniversidadCaldas\2022\Ciclo_III\Semana_II\Proyectos\Hotel75\Hotel.App\Hotel.App.Dominio\bin\Debug\net6.0\Hotel.App.Dominio.dll
+D:\UniversidadCaldas\2022\Ciclo_III\Semana_II\Proyectos\Hotel75\Hotel.App\Hotel.App.Dominio\bin\Debug\net6.0\Hotel.App.Dominio.pdb
+D:\UniversidadCaldas\2022\Ciclo_III\Semana_II\Proyectos\Hotel75\Hotel.App\Hotel.App.Dominio\obj\Debug\net6.0\Hotel.App.Dominio.csproj.AssemblyReference.cache
+D:\UniversidadCaldas\2022\Ciclo_III\Semana_II\Proyectos\Hotel75\Hotel.App\Hotel.App.Dominio\obj\Debug\net6.0\Hotel.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\UniversidadCaldas\2022\Ciclo_III\Semana_II\Proyectos\Hotel75\Hotel.App\Hotel.App.Dominio\obj\Debug\net6.0\Hotel.App.Dominio.AssemblyInfoInputs.cache
+D:\UniversidadCaldas\2022\Ciclo_III\Semana_II\Proyectos\Hotel75\Hotel.App\Hotel.App.Dominio\obj\Debug\net6.0\Hotel.App.Dominio.AssemblyInfo.cs
+D:\UniversidadCaldas\2022\Ciclo_III\Semana_II\Proyectos\Hotel75\Hotel.App\Hotel.App.Dominio\obj\Debug\net6.0\Hotel.App.Dominio.csproj.CoreCompileInputs.cache
+D:\UniversidadCaldas\2022\Ciclo_III\Semana_II\Proyectos\Hotel75\Hotel.App\Hotel.App.Dominio\obj\Debug\net6.0\Hotel.App.Dominio.dll
+D:\UniversidadCaldas\2022\Ciclo_III\Semana_II\Proyectos\Hotel75\Hotel.App\Hotel.App.Dominio\obj\Debug\net6.0\refint\Hotel.App.Dominio.dll
+D:\UniversidadCaldas\2022\Ciclo_III\Semana_II\Proyectos\Hotel75\Hotel.App\Hotel.App.Dominio\obj\Debug\net6.0\Hotel.App.Dominio.pdb
+D:\UniversidadCaldas\2022\Ciclo_III\Semana_II\Proyectos\Hotel75\Hotel.App\Hotel.App.Dominio\obj\Debug\net6.0\ref\Hotel.App.Dominio.dll
+D:\UniversidadCaldas\2022\Ciclo_III\Proyectos\Hotel75\Hotel.App\Hotel.App.Dominio\bin\Debug\net6.0\Hotel.App.Dominio.deps.json
+D:\UniversidadCaldas\2022\Ciclo_III\Proyectos\Hotel75\Hotel.App\Hotel.App.Dominio\bin\Debug\net6.0\Hotel.App.Dominio.dll
+D:\UniversidadCaldas\2022\Ciclo_III\Proyectos\Hotel75\Hotel.App\Hotel.App.Dominio\bin\Debug\net6.0\Hotel.App.Dominio.pdb
+D:\UniversidadCaldas\2022\Ciclo_III\Proyectos\Hotel75\Hotel.App\Hotel.App.Dominio\obj\Debug\net6.0\Hotel.App.Dominio.csproj.AssemblyReference.cache
+D:\UniversidadCaldas\2022\Ciclo_III\Proyectos\Hotel75\Hotel.App\Hotel.App.Dominio\obj\Debug\net6.0\Hotel.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\UniversidadCaldas\2022\Ciclo_III\Proyectos\Hotel75\Hotel.App\Hotel.App.Dominio\obj\Debug\net6.0\Hotel.App.Dominio.AssemblyInfoInputs.cache
+D:\UniversidadCaldas\2022\Ciclo_III\Proyectos\Hotel75\Hotel.App\Hotel.App.Dominio\obj\Debug\net6.0\Hotel.App.Dominio.AssemblyInfo.cs
+D:\UniversidadCaldas\2022\Ciclo_III\Proyectos\Hotel75\Hotel.App\Hotel.App.Dominio\obj\Debug\net6.0\Hotel.App.Dominio.csproj.CoreCompileInputs.cache
+D:\UniversidadCaldas\2022\Ciclo_III\Proyectos\Hotel75\Hotel.App\Hotel.App.Dominio\obj\Debug\net6.0\Hotel.App.Dominio.dll
+D:\UniversidadCaldas\2022\Ciclo_III\Proyectos\Hotel75\Hotel.App\Hotel.App.Dominio\obj\Debug\net6.0\refint\Hotel.App.Dominio.dll
+D:\UniversidadCaldas\2022\Ciclo_III\Proyectos\Hotel75\Hotel.App\Hotel.App.Dominio\obj\Debug\net6.0\Hotel.App.Dominio.pdb
+D:\UniversidadCaldas\2022\Ciclo_III\Proyectos\Hotel75\Hotel.App\Hotel.App.Dominio\obj\Debug\net6.0\ref\Hotel.App.Dominio.dll
+C:\Users\lozan\Desktop\Mintic ciclo 3\Hotel75\Hotel.App\Hotel.App.Dominio\bin\Debug\net6.0\Hotel.App.Dominio.deps.json
+C:\Users\lozan\Desktop\Mintic ciclo 3\Hotel75\Hotel.App\Hotel.App.Dominio\bin\Debug\net6.0\Hotel.App.Dominio.dll
+C:\Users\lozan\Desktop\Mintic ciclo 3\Hotel75\Hotel.App\Hotel.App.Dominio\bin\Debug\net6.0\Hotel.App.Dominio.pdb
+C:\Users\lozan\Desktop\Mintic ciclo 3\Hotel75\Hotel.App\Hotel.App.Dominio\obj\Debug\net6.0\Hotel.App.Dominio.csproj.AssemblyReference.cache
+C:\Users\lozan\Desktop\Mintic ciclo 3\Hotel75\Hotel.App\Hotel.App.Dominio\obj\Debug\net6.0\Hotel.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lozan\Desktop\Mintic ciclo 3\Hotel75\Hotel.App\Hotel.App.Dominio\obj\Debug\net6.0\Hotel.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\lozan\Desktop\Mintic ciclo 3\Hotel75\Hotel.App\Hotel.App.Dominio\obj\Debug\net6.0\Hotel.App.Dominio.AssemblyInfo.cs
+C:\Users\lozan\Desktop\Mintic ciclo 3\Hotel75\Hotel.App\Hotel.App.Dominio\obj\Debug\net6.0\Hotel.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\lozan\Desktop\Mintic ciclo 3\Hotel75\Hotel.App\Hotel.App.Dominio\obj\Debug\net6.0\Hotel.App.Dominio.dll
+C:\Users\lozan\Desktop\Mintic ciclo 3\Hotel75\Hotel.App\Hotel.App.Dominio\obj\Debug\net6.0\refint\Hotel.App.Dominio.dll
+C:\Users\lozan\Desktop\Mintic ciclo 3\Hotel75\Hotel.App\Hotel.App.Dominio\obj\Debug\net6.0\Hotel.App.Dominio.pdb
+C:\Users\lozan\Desktop\Mintic ciclo 3\Hotel75\Hotel.App\Hotel.App.Dominio\obj\Debug\net6.0\ref\Hotel.App.Dominio.dll

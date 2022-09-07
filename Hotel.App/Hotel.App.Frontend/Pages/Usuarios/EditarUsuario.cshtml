@@ -1,0 +1,27 @@
+﻿@page
+@model Hotel.App.Frontend.Pages.EditarUsuarioModel
+@{
+}
+
+<h1>Editar de Usuario</h1>
+<h3>@ViewData["Error"]</h3>
+<form method="POST">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <input type="hidden" asp-for="Usuario.Id">
+    <div class="mb-3">
+        <label asp-for="Usuario.Login" class="form-label">Nombre de Usuario</label>
+        <input type="text" asp-for="Usuario.Login" class="form-control" id="Login" aria-describedby="emailHelp">
+        <span asp-validation-for="Usuario.Login" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Usuario.Password" class="form-label">Password</label>
+        <input type="password" asp-for="Usuario.Password" class="form-control" id="Password">
+        <span asp-validation-for="Usuario.Password" class="text-danger"></span>
+    </div>
+    <div>
+        <label asp-for="Usuario.Email" class="form-label">Email address</label>
+        <input type="email" asp-for="Usuario.Email" class="form-control" id="Email" aria-describedby="emailHelp">
+        <span asp-validation-for="Usuario.Email" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Guardar</button>
+</form>

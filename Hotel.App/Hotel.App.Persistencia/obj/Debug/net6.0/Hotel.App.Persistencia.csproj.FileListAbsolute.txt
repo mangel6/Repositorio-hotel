@@ -1,0 +1,51 @@
+D:\UniversidadCaldas\2022\Ciclo_III\Semana_II\Proyectos\Hotel75\Hotel.App\Hotel.App.Persistencia\obj\Debug\net6.0\Hotel.App.Persistencia.csproj.AssemblyReference.cache
+D:\UniversidadCaldas\2022\Ciclo_III\Semana_II\Proyectos\Hotel75\Hotel.App\Hotel.App.Persistencia\obj\Debug\net6.0\Hotel.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\UniversidadCaldas\2022\Ciclo_III\Semana_II\Proyectos\Hotel75\Hotel.App\Hotel.App.Persistencia\obj\Debug\net6.0\Hotel.App.Persistencia.AssemblyInfoInputs.cache
+D:\UniversidadCaldas\2022\Ciclo_III\Semana_II\Proyectos\Hotel75\Hotel.App\Hotel.App.Persistencia\obj\Debug\net6.0\Hotel.App.Persistencia.AssemblyInfo.cs
+D:\UniversidadCaldas\2022\Ciclo_III\Semana_II\Proyectos\Hotel75\Hotel.App\Hotel.App.Persistencia\obj\Debug\net6.0\Hotel.App.Persistencia.csproj.CoreCompileInputs.cache
+D:\UniversidadCaldas\2022\Ciclo_III\Semana_II\Proyectos\Hotel75\Hotel.App\Hotel.App.Persistencia\bin\Debug\net6.0\Hotel.App.Persistencia.deps.json
+D:\UniversidadCaldas\2022\Ciclo_III\Semana_II\Proyectos\Hotel75\Hotel.App\Hotel.App.Persistencia\bin\Debug\net6.0\Hotel.App.Persistencia.runtimeconfig.json
+D:\UniversidadCaldas\2022\Ciclo_III\Semana_II\Proyectos\Hotel75\Hotel.App\Hotel.App.Persistencia\bin\Debug\net6.0\Hotel.App.Persistencia.dll
+D:\UniversidadCaldas\2022\Ciclo_III\Semana_II\Proyectos\Hotel75\Hotel.App\Hotel.App.Persistencia\bin\Debug\net6.0\Hotel.App.Persistencia.pdb
+D:\UniversidadCaldas\2022\Ciclo_III\Semana_II\Proyectos\Hotel75\Hotel.App\Hotel.App.Persistencia\bin\Debug\net6.0\Hotel.App.Dominio.dll
+D:\UniversidadCaldas\2022\Ciclo_III\Semana_II\Proyectos\Hotel75\Hotel.App\Hotel.App.Persistencia\bin\Debug\net6.0\Hotel.App.Dominio.pdb
+D:\UniversidadCaldas\2022\Ciclo_III\Semana_II\Proyectos\Hotel75\Hotel.App\Hotel.App.Persistencia\obj\Debug\net6.0\Hotel.App.Persistencia.csproj.CopyComplete
+D:\UniversidadCaldas\2022\Ciclo_III\Semana_II\Proyectos\Hotel75\Hotel.App\Hotel.App.Persistencia\obj\Debug\net6.0\Hotel.App.Persistencia.dll
+D:\UniversidadCaldas\2022\Ciclo_III\Semana_II\Proyectos\Hotel75\Hotel.App\Hotel.App.Persistencia\obj\Debug\net6.0\refint\Hotel.App.Persistencia.dll
+D:\UniversidadCaldas\2022\Ciclo_III\Semana_II\Proyectos\Hotel75\Hotel.App\Hotel.App.Persistencia\obj\Debug\net6.0\Hotel.App.Persistencia.pdb
+D:\UniversidadCaldas\2022\Ciclo_III\Semana_II\Proyectos\Hotel75\Hotel.App\Hotel.App.Persistencia\obj\Debug\net6.0\Hotel.App.Persistencia.genruntimeconfig.cache
+D:\UniversidadCaldas\2022\Ciclo_III\Semana_II\Proyectos\Hotel75\Hotel.App\Hotel.App.Persistencia\obj\Debug\net6.0\ref\Hotel.App.Persistencia.dll
+D:\UniversidadCaldas\2022\Ciclo_III\Proyectos\Hotel75\Hotel.App\Hotel.App.Persistencia\bin\Debug\net6.0\Hotel.App.Persistencia.deps.json
+D:\UniversidadCaldas\2022\Ciclo_III\Proyectos\Hotel75\Hotel.App\Hotel.App.Persistencia\bin\Debug\net6.0\Hotel.App.Persistencia.runtimeconfig.json
+D:\UniversidadCaldas\2022\Ciclo_III\Proyectos\Hotel75\Hotel.App\Hotel.App.Persistencia\bin\Debug\net6.0\Hotel.App.Persistencia.dll
+D:\UniversidadCaldas\2022\Ciclo_III\Proyectos\Hotel75\Hotel.App\Hotel.App.Persistencia\bin\Debug\net6.0\Hotel.App.Persistencia.pdb
+D:\UniversidadCaldas\2022\Ciclo_III\Proyectos\Hotel75\Hotel.App\Hotel.App.Persistencia\bin\Debug\net6.0\Hotel.App.Dominio.dll
+D:\UniversidadCaldas\2022\Ciclo_III\Proyectos\Hotel75\Hotel.App\Hotel.App.Persistencia\bin\Debug\net6.0\Hotel.App.Dominio.pdb
+D:\UniversidadCaldas\2022\Ciclo_III\Proyectos\Hotel75\Hotel.App\Hotel.App.Persistencia\obj\Debug\net6.0\Hotel.App.Persistencia.csproj.AssemblyReference.cache
+D:\UniversidadCaldas\2022\Ciclo_III\Proyectos\Hotel75\Hotel.App\Hotel.App.Persistencia\obj\Debug\net6.0\Hotel.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\UniversidadCaldas\2022\Ciclo_III\Proyectos\Hotel75\Hotel.App\Hotel.App.Persistencia\obj\Debug\net6.0\Hotel.App.Persistencia.AssemblyInfoInputs.cache
+D:\UniversidadCaldas\2022\Ciclo_III\Proyectos\Hotel75\Hotel.App\Hotel.App.Persistencia\obj\Debug\net6.0\Hotel.App.Persistencia.AssemblyInfo.cs
+D:\UniversidadCaldas\2022\Ciclo_III\Proyectos\Hotel75\Hotel.App\Hotel.App.Persistencia\obj\Debug\net6.0\Hotel.App.Persistencia.csproj.CoreCompileInputs.cache
+D:\UniversidadCaldas\2022\Ciclo_III\Proyectos\Hotel75\Hotel.App\Hotel.App.Persistencia\obj\Debug\net6.0\Hotel.App.Persistencia.csproj.CopyComplete
+D:\UniversidadCaldas\2022\Ciclo_III\Proyectos\Hotel75\Hotel.App\Hotel.App.Persistencia\obj\Debug\net6.0\Hotel.App.Persistencia.dll
+D:\UniversidadCaldas\2022\Ciclo_III\Proyectos\Hotel75\Hotel.App\Hotel.App.Persistencia\obj\Debug\net6.0\refint\Hotel.App.Persistencia.dll
+D:\UniversidadCaldas\2022\Ciclo_III\Proyectos\Hotel75\Hotel.App\Hotel.App.Persistencia\obj\Debug\net6.0\Hotel.App.Persistencia.pdb
+D:\UniversidadCaldas\2022\Ciclo_III\Proyectos\Hotel75\Hotel.App\Hotel.App.Persistencia\obj\Debug\net6.0\Hotel.App.Persistencia.genruntimeconfig.cache
+D:\UniversidadCaldas\2022\Ciclo_III\Proyectos\Hotel75\Hotel.App\Hotel.App.Persistencia\obj\Debug\net6.0\ref\Hotel.App.Persistencia.dll
+C:\Users\lozan\Desktop\Mintic ciclo 3\Hotel75\Hotel.App\Hotel.App.Persistencia\bin\Debug\net6.0\Hotel.App.Persistencia.deps.json
+C:\Users\lozan\Desktop\Mintic ciclo 3\Hotel75\Hotel.App\Hotel.App.Persistencia\bin\Debug\net6.0\Hotel.App.Persistencia.runtimeconfig.json
+C:\Users\lozan\Desktop\Mintic ciclo 3\Hotel75\Hotel.App\Hotel.App.Persistencia\bin\Debug\net6.0\Hotel.App.Persistencia.dll
+C:\Users\lozan\Desktop\Mintic ciclo 3\Hotel75\Hotel.App\Hotel.App.Persistencia\bin\Debug\net6.0\Hotel.App.Persistencia.pdb
+C:\Users\lozan\Desktop\Mintic ciclo 3\Hotel75\Hotel.App\Hotel.App.Persistencia\bin\Debug\net6.0\Hotel.App.Dominio.dll
+C:\Users\lozan\Desktop\Mintic ciclo 3\Hotel75\Hotel.App\Hotel.App.Persistencia\bin\Debug\net6.0\Hotel.App.Dominio.pdb
+C:\Users\lozan\Desktop\Mintic ciclo 3\Hotel75\Hotel.App\Hotel.App.Persistencia\obj\Debug\net6.0\Hotel.App.Persistencia.csproj.AssemblyReference.cache
+C:\Users\lozan\Desktop\Mintic ciclo 3\Hotel75\Hotel.App\Hotel.App.Persistencia\obj\Debug\net6.0\Hotel.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lozan\Desktop\Mintic ciclo 3\Hotel75\Hotel.App\Hotel.App.Persistencia\obj\Debug\net6.0\Hotel.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\lozan\Desktop\Mintic ciclo 3\Hotel75\Hotel.App\Hotel.App.Persistencia\obj\Debug\net6.0\Hotel.App.Persistencia.AssemblyInfo.cs
+C:\Users\lozan\Desktop\Mintic ciclo 3\Hotel75\Hotel.App\Hotel.App.Persistencia\obj\Debug\net6.0\Hotel.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\lozan\Desktop\Mintic ciclo 3\Hotel75\Hotel.App\Hotel.App.Persistencia\obj\Debug\net6.0\Hotel.App.Persistencia.csproj.CopyComplete
+C:\Users\lozan\Desktop\Mintic ciclo 3\Hotel75\Hotel.App\Hotel.App.Persistencia\obj\Debug\net6.0\Hotel.App.Persistencia.dll
+C:\Users\lozan\Desktop\Mintic ciclo 3\Hotel75\Hotel.App\Hotel.App.Persistencia\obj\Debug\net6.0\refint\Hotel.App.Persistencia.dll
+C:\Users\lozan\Desktop\Mintic ciclo 3\Hotel75\Hotel.App\Hotel.App.Persistencia\obj\Debug\net6.0\Hotel.App.Persistencia.pdb
+C:\Users\lozan\Desktop\Mintic ciclo 3\Hotel75\Hotel.App\Hotel.App.Persistencia\obj\Debug\net6.0\Hotel.App.Persistencia.genruntimeconfig.cache
+C:\Users\lozan\Desktop\Mintic ciclo 3\Hotel75\Hotel.App\Hotel.App.Persistencia\obj\Debug\net6.0\ref\Hotel.App.Persistencia.dll

@@ -1,0 +1,34 @@
+﻿@page
+@model Hotel.App.Frontend.Pages.Usuarios.ListadoUsuariosModel
+@{
+}
+<h1> Listado de Usuarios</h1>
+<p>
+    <a asp-page="CrearUsuario"> Crear Usuario</a>
+</p>
+<form method="POST">
+    <table class="table table-dark table-striped">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Usuario</th>
+                <th scope="col">Email</th>
+                <td colspan="3">Opciones</td>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var usuario in Model.Usuarios)
+            {
+                <tr>
+                    <th scope="row">@usuario.Id</th>
+                    <td>@usuario.Login</td>
+                    <td>@usuario.Email</td>
+                    <td><a asp-page="EditarUsuario" asp-route-id="@usuario.Id">Editar</a></td>
+                    <td><a href="">Detalles</a></td>
+                    <td><a href="">Eliminar</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</form>
+
